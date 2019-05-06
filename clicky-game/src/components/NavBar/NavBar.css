@@ -1,0 +1,13 @@
+.nav {
+    background: rgb(81,51,164);
+    color: white;
+    box-shadow: 0 2px 20px black;
+}
+
+#name {
+    padding-right: 175px;
+}
+
+.nav-name {
+    font-weight: bold;
+}
